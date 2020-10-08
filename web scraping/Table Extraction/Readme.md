@@ -1,4 +1,4 @@
-What i have done 
+TOP 100 COMPANIES VISUALIZATION
 
 1. Scraping webpage and extracting table from it using BeautifulSoup and Urllib.
 2. Visualizing the extracted data in PowerBI
